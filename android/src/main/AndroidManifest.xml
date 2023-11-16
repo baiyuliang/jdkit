@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.byl.jdkit">
+
+    <queries>
+        <package android:name="com.jingdong.app.mall" />
+        <package android:name="com.jd.jdlite" />
+    </queries>
+
+</manifest>
