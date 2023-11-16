@@ -1,7 +1,7 @@
 name: jdkit
-description: jdkit flutter for android and ios.
+description: flutter plugin of jd union for android and ios.
 version: 0.0.1
-homepage:
+homepage: https://github.com/baiyuliang/jdkit
 
 environment:
   sdk: '>=3.0.6 <4.0.0'
